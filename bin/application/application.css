@@ -1,0 +1,12 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#scoreText {
+    -fx-font: 50px Veranda;
+   	-fx-text-fill: white;
+   	-fx-stroke: black;
+    -fx-stroke-width: 2px;
+ 
+}
+.outline.label .text{
+	-fx-stroke: black;
+	-fx-stroke-width: 2px;
+}
